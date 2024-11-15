@@ -1,0 +1,23 @@
+[ {
+  "id" : "d2a3e742-b871-41f5-b560-4c9db24a78d9",
+  "createdDateTime" : "20/05/2024 17:51:50",
+  "username" : "behzodfarkhodov",
+  "number" : "+17077228686",
+  "state" : "USER_VACANCIES",
+  "chatId" : 1330696129,
+  "location" : {
+    "longitude" : 5.0E-6,
+    "latitude" : 20.758069
+  },
+  "resumeName" : "Behzod",
+  "resumeAge" : "21",
+  "resumeEducation" : "PDP",
+  "resumeExperience" : "Java,HTML,C#,English",
+  "creatingVacancyTitle" : "Python Mentor",
+  "creatingVacancyCompany" : "PDP",
+  "creatingVacancyExperience" : "Ielts 5.5,Python,Java,C#. To'gri kelsangiz bog'laning",
+  "creatingVacancySalary" : "500$",
+  "creatingVacancyPhone" : "+998900003455",
+  "creatingVacancyRegion" : "Xorazm",
+  "appliedVacancies" : [ "e79ec68b-a448-422e-98e5-6fd5bb74e39c", "8a3dfb2c-1d18-4514-8e10-a31c98f002da" ]
+} ]

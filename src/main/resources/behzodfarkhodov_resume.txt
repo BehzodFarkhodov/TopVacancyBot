@@ -1,0 +1,4 @@
+Name: Behzod
+Age: 21
+Education: PDP
+Work Experience: Java,HTML,C#,English
